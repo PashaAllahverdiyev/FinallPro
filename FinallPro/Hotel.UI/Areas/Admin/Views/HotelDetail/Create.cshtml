@@ -1,0 +1,55 @@
+﻿@model Hotel.Business.ViewModels.HotelDetailVM.HotelDetailCreatViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>HotelDetailCreatViewModel</h4>
+<hr />
+<div style="margin:50px 150px; class="row ">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="CityLandScare" /> @Html.DisplayNameFor(model => model.CityLandScare)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IndoorSwimmingPoor" /> @Html.DisplayNameFor(model => model.IndoorSwimmingPoor)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="FreeParking" /> @Html.DisplayNameFor(model => model.FreeParking)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="FreeWiFi" /> @Html.DisplayNameFor(model => model.FreeWiFi)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="DailyHouseKeeping" /> @Html.DisplayNameFor(model => model.DailyHouseKeeping)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="SafeBox" /> @Html.DisplayNameFor(model => model.SafeBox)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,17 @@
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\bin\Debug\net6.0\Hotel.Business.deps.json
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\bin\Debug\net6.0\Hotel.Business.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\bin\Debug\net6.0\Hotel.Business.pdb
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\refint\Hotel.Business.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.pdb
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\ref\Hotel.Business.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\bin\Debug\net6.0\Hotel.Core.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\bin\Debug\net6.0\Hotel.DataAccess.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\bin\Debug\net6.0\Hotel.DataAccess.pdb
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\bin\Debug\net6.0\Hotel.Core.pdb
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.csproj.AssemblyReference.cache
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Business\obj\Debug\net6.0\Hotel.Business.csproj.CopyComplete

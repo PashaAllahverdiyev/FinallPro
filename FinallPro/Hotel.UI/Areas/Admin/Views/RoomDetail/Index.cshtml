@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Hotel.Core.Entities.RoomDetail>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div style="margin:80px 150px;">
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+</div>
+<table style="margin:50px 100px;" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Service)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MiniBar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AirController)
+            </th>
+
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Service)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MiniBar)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tv)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AirController)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @* @Html.ActionLink("RoomDetail", "Delete","RoomDetail", new { id=item.Id }) *@
+                    <a asp-route="room-delete" asp-route-id="@item.Id">Delete</a>
+
+                    
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

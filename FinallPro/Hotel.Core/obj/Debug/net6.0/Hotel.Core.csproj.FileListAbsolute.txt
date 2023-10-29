@@ -1,0 +1,12 @@
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\bin\Debug\net6.0\Hotel.Core.deps.json
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\bin\Debug\net6.0\Hotel.Core.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\bin\Debug\net6.0\Hotel.Core.pdb
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\Hotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\Hotel.Core.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\Hotel.Core.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\Hotel.Core.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\Hotel.Core.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\refint\Hotel.Core.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\Hotel.Core.pdb
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\ref\Hotel.Core.dll
+C:\Users\I'm Pasha\source\repos\FinalPro\Hotel.Core\obj\Debug\net6.0\Hotel.Core.csproj.AssemblyReference.cache
